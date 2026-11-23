@@ -86,9 +86,9 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           <div className="footer-inner">
             <span>Small tools for annoying tasks.</span>
             <nav className="footer-links" aria-label="External links">
-              <a href="https://ujjwaluzu.in" target="_blank" rel="noopener noreferrer">Portfolio</a>
-              <a href="https://blog.ujjwaluzu.in" target="_blank" rel="noopener noreferrer">Blog</a>
-              <a href="https://status.ujjwaluzu.in" target="_blank" rel="noopener noreferrer">Status</a>
+              <a href="https://sudar.web.id" target="_blank" rel="noopener noreferrer">Portfolio</a>
+              <a href="https://sudar.web.id" target="_blank" rel="noopener noreferrer">Blog</a>
+              <a href="https://status.sudar.web.id" target="_blank" rel="noopener noreferrer">Status</a>
             </nav>
           </div>
         </footer>
