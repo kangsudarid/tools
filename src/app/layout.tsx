@@ -40,9 +40,9 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     siteName: "Sudar Tools",
-    title: "Ujjwal Tools - Tiny tools for annoying tasks",
+    title: "Sudar Tools - Tiny tools for annoying tasks",
     description: "Small tools for annoying tasks, processed locally whenever possible.",
-    url: "https://tools.ujjwaluzu.in/tools",
+    url: "https://tools.sudar.web.id/tools",
   },
 };
 
